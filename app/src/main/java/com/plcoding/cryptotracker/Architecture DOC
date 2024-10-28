@@ -1,0 +1,11 @@
+the crypto package is a feature package that cotains all related to crypto
+In MVI - all UI data is bundled together in one data class
+
+
+presentation -
+data -
+domain -  This layer is preferably kept isolated even from the android SDK libraries. We dont use any context var and all that there.
+        Things we access throughout the project
+Isolating business logic and things that dont change often
+
+s
