@@ -13,11 +13,11 @@ Material3 is used for dynamic application theme. Thus the app automatically adju
 * Kotlin - App logic
 # Screenshots
 ## Home Page & Details Screen
-<img src ="https://github.com/user-attachments/assets/67f8ea53-7026-4f4f-9d75-f8e2cbfcd49c" width = 500px height= 1000px>
-<img src ="https://github.com/user-attachments/assets/b9d5e98a-22db-4fc4-9261-19f280f7ae1f" width = 500px height= 1000px>
+<img src ="https://github.com/user-attachments/assets/67f8ea53-7026-4f4f-9d75-f8e2cbfcd49c" width = 480px height= 1000px>
+<img src ="https://github.com/user-attachments/assets/b9d5e98a-22db-4fc4-9261-19f280f7ae1f" width = 480px height= 1000px>
 <br>
 
-## Horizontal Side by Side View
+## Horizontal Side by Side Pane View
 ![Horizontal](https://github.com/user-attachments/assets/683d58dd-3dae-486b-8c00-0696dfe0e48f)
 
 ## List-Detail layout of the application 
